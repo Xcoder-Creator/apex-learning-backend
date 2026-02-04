@@ -15,7 +15,7 @@ This is the backend for the apex learning web app. Check out the frontend here -
 
 ## What I’d Do Differently Today
 - Make use of an ORM to reduce query complexity
-- Adopt strict code splitting
+- Adopt strict code splitting practices
 - Use Typescript over plain Javascript
 
 ## License
