@@ -1,0 +1,3 @@
+var file_type_list = ['image/jpeg', 'image/gif', 'image/png', 'image/svg+xml', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/pdf', 'audio/mp4', 'audio/mpeg', 'video/mp4', 'audio/wave', 'audio/wav', 'video/webm', 'application/x-zip-compressed', 'application/zip', 'text/html', 'text/css', 'text/javascript', 'application/vnd.ms-powerpoint']; //An array of possible file types accepted by apex learning
+
+module.exports = file_type_list;
